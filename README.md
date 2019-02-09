@@ -12,9 +12,11 @@ Jurassic Brawl was created by [Shih-chieh “CJ” Ke](https://github.com/RayCJ8
 
 ## Screenshots
 
-Battling it out
+Battling it out in the desert (and providing indisputable archaeological evidence that large modern mammals did infact co-exist alongside dinosaurs).
 
 !["Screenshot 1"](https://github.com/richmondwong/jurassic_brawl/blob/master/screenshots/one.png)
+
+Health power-up sky drops are randomized by location. Grab the bazooka for inflict double damage.
 
 !["Screenshot 2"](https://github.com/richmondwong/jurassic_brawl/blob/master/screenshots/two.png)
 
