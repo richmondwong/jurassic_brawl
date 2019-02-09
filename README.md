@@ -33,4 +33,4 @@ README in progress. Screenshots to follow.
 - Go to **localhost:3000/newgame** in your browser
 - You will need the IP address of your wifi network for your mobile device. Use your respective IP address to connect to **your-IP-address:3000/player** on your mobile device's browser
 - If not all players present have a mobile device, they can play using the onscreen controller by following these steps: (1.) Open a new browser window; (2.) Connect to **localhost:3000/player**
-- Finally, you can play the game on your computer's browser by clicking the *New Game* button when all four players have connected their controllers
+- Finally, you can play the game on your computer's browser by clicking the **New Game** button when all four players have connected their controllers
