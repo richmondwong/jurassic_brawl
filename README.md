@@ -4,7 +4,7 @@ Jurassic Brawl is a classic 2D multiplayer game in the vein of Nintendo's Super 
 
 The aim of the game is simple: extinguish your lizard brethren using a hail of lethal fireballs and Mike Tyson-like dino headbutts.
 
-Grab weapon and health power-ups to ensure you're the last one standing.
+Grab weapon and health power-ups to ensure you're the last one standing (and while you're at it, see if you can etch your name in the high scores list)
 
 We made Jurassic Brawl to recapture the old school console gaming experience of playing together with friends in the same room. Play together with 3 other players on any mobile devices (phones and tablets across all operating systems are compatible).
 
