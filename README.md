@@ -12,7 +12,7 @@ Jurassic Brawl was created by [Shih-chieh “CJ” Ke](https://github.com/RayCJ8
 
 ## Screenshots
 
-Battling it out in the desert (and providing indisputable archaeological evidence that large modern mammals did infact co-exist alongside dinosaurs).
+Battling it out in the desert (along with indisputable archaeological evidence that large modern mammals did infact co-exist alongside dinosaurs).
 
 !["Screenshot 1"](https://github.com/richmondwong/jurassic_brawl/blob/master/screenshots/one.png)
 
