@@ -16,7 +16,7 @@ Battling it out in the desert (and providing indisputable archaeological evidenc
 
 !["Screenshot 1"](https://github.com/richmondwong/jurassic_brawl/blob/master/screenshots/one.png)
 
-Health power-up sky drops are randomized by location. Grab the bazooka for inflict double damage.
+Health power-up sky drops are randomized by location. Grab the bazooka to inflict double damage.
 
 !["Screenshot 2"](https://github.com/richmondwong/jurassic_brawl/blob/master/screenshots/two.png)
 
