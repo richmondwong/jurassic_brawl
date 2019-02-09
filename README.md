@@ -8,7 +8,7 @@ Grab weapon and health power-ups to ensure you're the last one standing.
 
 We made Jurassic Brawl to recapture the old school console gaming experience of playing together with friends in the same room. Play together with 3 other players on any mobile devices (phones and tablets across all operating systems are compatible).
 
-Jurassic Brawl was created by [Shih-chieh “CJ” KE](https://github.com/RayCJ87), [Edward YANG](https://github.com/edwardcode) and Richmond Wong
+Jurassic Brawl was created by [Shih-chieh “CJ” Ke](https://github.com/RayCJ87), [Edward Yang](https://github.com/edwardcode) and Richmond Wong
 
 ## Screenshots
 
