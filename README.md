@@ -6,7 +6,7 @@ The aim of the game is simple: extinguish your lizard brethren using a hail of l
 
 Grab weapon and health power-ups to ensure you're the last one standing (and while you're at it, see if you can etch your name in the high scores list)
 
-We made Jurassic Brawl to recapture the old school console gaming experience of playing together with friends in the same room. Play together with 3 other players on any mobile devices (phones and tablets across all operating systems are compatible).
+We made Jurassic Brawl to recapture the old school console gaming experience of playing together with friends in the same room. Play together with 3 other players on any mobile device (phones and tablets across all operating systems are compatible) which via Socket.io we've turned into wireless gamepads.
 
 Jurassic Brawl was created by [Shih-chieh “CJ” Ke](https://github.com/RayCJ87), [Edward Yang](https://github.com/edwardcode) and Richmond Wong
 
@@ -27,6 +27,7 @@ Start screen
 ## Dependencies
 
 - Phaser game engine
+- Socket.io
 - Express
 - MongoDB
 - EJS
