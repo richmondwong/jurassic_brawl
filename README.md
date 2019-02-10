@@ -20,9 +20,13 @@ Health power-up sky drops are randomized by location. Grab the bazooka to inflic
 
 !["Screenshot 2"](https://github.com/richmondwong/jurassic_brawl/blob/master/screenshots/two.png)
 
-Start screen
+Start screen.
 
 !["Screenshot 3"](https://github.com/richmondwong/jurassic_brawl/blob/master/screenshots/start.png)
+
+Gamepad and joystick with full 360 degree movement.
+
+!["Screenshot 4"](https://github.com/richmondwong/jurassic_brawl/blob/master/screenshots/gamepad_one.png)
 
 ## Dependencies
 
