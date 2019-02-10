@@ -24,7 +24,7 @@ Start screen.
 
 !["Screenshot 3"](https://github.com/richmondwong/jurassic_brawl/blob/master/screenshots/start.png)
 
-Gamepad and joystick with full 360 degree movement.
+Wireless gamepad on mobile phone / tablet. Joystick has full 360 degree movement.
 
 !["Screenshot 4"](https://github.com/richmondwong/jurassic_brawl/blob/master/screenshots/gamepad_one.png)
 
