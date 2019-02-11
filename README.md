@@ -1,5 +1,7 @@
 # Jurassic Brawl
 
+!["Intro GIF"](https://github.com/richmondwong/jurassic_brawl/blob/master/screenshots/one.gif)
+
 Jurassic Brawl is a classic 2D multiplayer game in the vein of Nintendo's Super Smash Bros.
 
 The aim of the game is simple: extinguish your lizard brethren using a hail of lethal fireballs and Mike Tyson-like dino headbutts.
