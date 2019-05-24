@@ -2,9 +2,7 @@
 
 !["Intro GIF"](https://github.com/richmondwong/jurassic_brawl/blob/master/screenshots/one.gif)
 
-Jurassic Brawl is a classic 2D multiplayer game in the vein of Nintendo's Super Smash Bros. 
-
-This game won first place at the Feb 2019 Lighthouse Labs projects competition as voted by 75+ audience members.
+Jurassic Brawl is a classic 2D multiplayer game in the vein of Nintendo's Super Smash Bros. This game won first place at the Feb 2019 Lighthouse Labs projects competition as voted by 75+ audience members.
 
 The aim of the game is simple: extinguish your lizard brethren using a hail of lethal fireballs and Mike Tyson-like dino headbutts.
 
